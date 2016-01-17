@@ -6,4 +6,5 @@
 [2. 変数と標準入出力](https://github.com/knct-densan/densantext/blob/master/Chapter2.md)  
 [3. 制御文](https://github.com/knct-densan/densantext/blob/master/Chapter3.md)  
 [4. 配列](https://github.com/knct-densan/densantext/blob/master/Chapter4.md)  
+[5. 関数](https://github.com/knct-densan/densantext/blob/master/Chapter5.md)  
 随時追加
