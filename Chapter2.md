@@ -253,7 +253,7 @@ int main()
     puts("正の整数と文字を１つずつ入力してください");
     scanf("%d", &n);
     c = getchar();
-    printf("%d%c\n", n);
+    printf("%d%c\n", n, c);
 
     return 0;
 }
