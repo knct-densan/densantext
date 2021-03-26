@@ -9,3 +9,4 @@
 [5. 関数](https://github.com/knct-densan/densantext/blob/master/Chapter5.md)  
 [6. 構造体](https://github.com/knct-densan/densantext/blob/master/Chapter6.md)  
 [7. アドレスとポインタ](https://github.com/knct-densan/densantext/blob/master/Chapter7.md)  
+[8. 再帰](https://github.com/knct-densan/densantext/blob/master/Chapter8.md)
