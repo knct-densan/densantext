@@ -6,6 +6,8 @@ void swap(int *a, int *b) {
     *b = c;
 }
 
+// 最大公約数のことを英語でGCDといいます
+// calcはcalculate(計算する)のことです
 int calcGCD(int x, int y) {
     if (x < y) {
         swap(&x, &y);
